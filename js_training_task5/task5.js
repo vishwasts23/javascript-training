@@ -109,7 +109,7 @@ else
 // ==========================================
 console.log("Task 5 — Traffic Signal System :");
 
-let signal = "red";
+let signal = "green";
 
 
 switch(signal)
@@ -120,7 +120,7 @@ switch(signal)
 
     case "yellow":
         console.log("READY");
-        break;
+        break; 
 
     case "green":
         console.log("GO");
